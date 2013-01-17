@@ -1,4 +1,4 @@
-[see my personal web page](http://rahulgautam.github.com)
+[Checkout my personal web page](http://rahulgautam.github.com)
 ======================
 
 #### OR
@@ -9,4 +9,4 @@
 
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/7f511cbb7f9d638a2a706323569d1c06 "githalytics.com")](http://githalytics.com/rahulgautam/rahulgautam.github.com)
+
